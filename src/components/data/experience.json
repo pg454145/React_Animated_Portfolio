@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "role": "MERN Stack Developer (Project)",
+    "organisation": "iNotebook",
+    "startDate": "2025",
+    "endDate": "2025",
+    "location": "Remote",
+    "experiences": [
+      "Developed a full-stack MERN notes application with user authentication",
+      "Implemented CRUD operations for creating, editing and deleting notes",
+      "Built REST APIs using Node.js and Express.js",
+      "Used MongoDB for data storage and JWT for secure authentication",
+      "Designed responsive frontend using React and Bootstrap"
+    ],
+    "imageSrc": "company/mongodb.png"
+  },
+  {
+    "id": 2,
+    "role": "React Developer (Project)",
+    "organisation": "NewsApp",
+    "startDate": "2025",
+    "endDate": "2025",
+    "location": "Remote",
+    "experiences": [
+      "Built a React-based news application using external News API",
+      "Displayed category-wise and real-time news updates",
+      "Implemented pagination and loading indicators",
+      "Used React hooks and component-based architecture"
+    ],
+    "imageSrc": "company/react.png"
+  },
+  {
+    "id": 3,
+    "role": "React Developer (Project)",
+    "organisation": "TextUtils",
+    "startDate": "2024",
+    "endDate": "2024",
+    "location": "Remote",
+    "experiences": [
+      "Created a text utility web app using React",
+      "Implemented features like text conversion, word and character count",
+      "Added dark mode and responsive UI",
+      "Focused on clean UI and reusability of components"
+    ],
+    "imageSrc": "company/react.png"
+  },
+  {
+    "id": 4,
+    "role": "JavaScript Developer (Practice Project)",
+    "organisation": "Digital Clock App",
+    "startDate": "2024",
+    "endDate": "2024",
+    "location": "Remote",
+    "experiences": [
+      "Built a digital clock using JavaScript",
+      "Displayed real-time date, time and day dynamically",
+      "Strengthened understanding of JavaScript DOM and Date object"
+    ],
+    "imageSrc": "company/javascript.png"
+  }
+]
